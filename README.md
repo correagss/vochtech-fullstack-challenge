@@ -5,7 +5,7 @@ This project was developed as part of a fullstack technical challenge, utilizing
 ## Technologies Used
 
 *   **PHP:** Main programming language.
-*   **Laravel Framework:**
+*   **Laravel Framework**
 *   **Composer:** Dependency manager for PHP.
 *   **Database:** MySQL
 *   **HTML, CSS, JavaScript:** For frontend development.
@@ -14,4 +14,5 @@ This project was developed as part of a fullstack technical challenge, utilizing
 
 *   **Basic Laravel Project Structure:** Initial Laravel setup, including `app`, `database`, `resources`, `routes` folders, etc.
 *   **Database Migrations:** At least one migration (`create_grupo_bandeira_unidade_table`) has been created, indicating the beginning of the database schema definition to manage entities such as Groups, Flags, and Units.
+
 *   **Environment Configuration:** Configuration files like `.env` and `composer.json` are present.
